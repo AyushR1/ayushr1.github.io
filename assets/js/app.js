@@ -127,21 +127,17 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch with me</h6>
               </div>
-                <form>
-                <form action="https://formcarry.com/s/4nsLgigx-xm" method="POST" accept-charset="UTF-8" >                           
-                  <input type="text" name="field1" placeholder="Your Full Name" required/>
-                  <input type="email" name="field2" placeholder="Your Email Address"  required/>
-                  <textarea name="field3" placeholder="Write your Message" required></textarea>
+                <form id="formId" action="https://docs.google.com/forms/u/3/d/e/1FAIpQLSfYyQo2E6jCkUb5Blx8G0DXQ2B2Rc1xMbfT19Vs-OYRWyDfsg/formResponse">                       
+                  <input type="text" name="entry.2005620554" placeholder="Your Full Name" required/>
+                  <input type="email" name="entry.1045781291" placeholder="Your Email Address"  required/>
+                  <textarea name="entry.1065046570" placeholder="Write your Message" required></textarea>
                   <input type="submit" value="Send" />
                 </form>
              </div>
           </div>
         </div>
     </div>
-
-
     
-
     <div class="rounded-social-buttons tag">
     <a class="social-button twitter" href="https://twitter.com/AyushR1_tw" target="_blank">
     <!-- SVG code for twitter icon -->
